@@ -15,7 +15,7 @@ public class HelloWorld {
 	   map.put(1, "Java");
 	   map.put(2, "JDK");
 	   map.put(3, "Spring Framework");
-	   map.put(4, "MyBatis framework");
+	   map.put(4, "MyBatis ramework");
 	   map.put(5, "Java中文社群");
 	   //method01(map);
 	   //method02(map);
