@@ -62,7 +62,7 @@ public class TestEmployee {
 			/* return Integer.compare(e1.getAge(), e2.getAge()); */
 			return e1.getAge().compareTo(e2.getAge());
 		});		
-		employeeList.stream().forEach(e -> System.out.println(e));			
+		employeeList.stream().forEach(e -> System.out.println(e));				
 	}
     
 }

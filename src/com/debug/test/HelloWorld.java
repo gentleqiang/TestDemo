@@ -92,6 +92,6 @@ private static void method01(HashMap<Integer, String> map) {
 		   Entry<Integer, String> entity = iterator.next();
 		   System.out.println(entity.getKey());
 		   System.out.println(entity.getValue());
-	   }	  
+	   }
    }
 }
